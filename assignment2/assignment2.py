@@ -2,7 +2,6 @@ import csv
 import os
 import custom_module
 from datetime import datetime
-
 # task 2
 def read_employees():
     data = {}
