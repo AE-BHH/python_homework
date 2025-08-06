@@ -1,0 +1,60 @@
+function: say_Hello
+positional parameters: none
+keyward parameters: none
+return: None
+
+function: add
+positional parameters: [5, 10]
+keyward parameters: none
+return: True
+
+function: contact
+positional parameters: none
+keyward parameters: {'name': 'Sam Smith', 'phone_number': '1234567890', 'email': 'sam.smith123@gmail.com'}
+return: <function logger_dectoratro at 0x1048077e0>
+
+function: say_Hello
+positional parameters: none
+keyward parameters: none
+return: None
+
+function: add
+positional parameters: [5, 10]
+keyward parameters: none
+return: True
+
+function: contact
+positional parameters: none
+keyward parameters: {'name': 'Sam Smith', 'phone_number': '1234567890', 'email': 'sam.smith123@gmail.com'}
+return: <function logger_dectoratro at 0x10241f7e0>
+
+function: say_Hello
+positional parameters: none
+keyward parameters: none
+return: None
+
+function: add
+positional parameters: [5, 10, True]
+keyward parameters: none
+return: True
+
+function: contact
+positional parameters: none
+keyward parameters: {'name': 'Sam Smith', 'phone_number': '1234567890', 'email': 'sam.smith123@gmail.com'}
+return: <function logger_dectoratro at 0x10476f740>
+
+function: say_Hello
+positional parameters: none
+keyward parameters: none
+return: None
+
+function: add
+positional parameters: [5, 10, True]
+keyward parameters: none
+return: True
+
+function: contact
+positional parameters: none
+keyward parameters: {'name': 'Sam Smith', 'phone_number': '1234567890', 'email': 'sam.smith123@gmail.com'}
+return: <function logger_dectorator at 0x1005b3740>
+
