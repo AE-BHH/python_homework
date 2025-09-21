@@ -1,0 +1,2 @@
+At the beginning, I was lost and didn't know how to find the specific section of the web page to scrape. Then after studying some articles and watching a video about xpath, I could get familiar with the structure and how the process show be done. 
+Then, I came back to the assignment and read the tasks a few times and started navigating to the page and after a few times coding and making erros and finding solutions for each time error I could finally complete the task 6 in this assignment.
