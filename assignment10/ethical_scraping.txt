@@ -1,0 +1,21 @@
+Task 5: 
+Which sections of the website are restricted for crawling?
+
+Answer: the robots.txt file shows that the following areas are restricted and are banned to be crawled
+/w/
+/api/
+/trap/
+specific pages that starts with the term 'Special' or translated to any other langauages.
+Sensible deletion and meta user discussion pages
+
+Are there specific rules for certain user agents?
+
+Answer:
+Yes, there are rules that bans some bots that have poor behavior and not respecting the robots.txt regulations.
+
+Reflect on why websites use robots.txt and write 2-3 sentences explaining its purpose and how it promotes ethical scraping.
+
+Answer: The reason behind the robots.txt file is to communicate with crawling and scraping tools. Basically, it simply says that what are the rules and what area of the website is prohabited for crawling and scraping.
+
+
+
